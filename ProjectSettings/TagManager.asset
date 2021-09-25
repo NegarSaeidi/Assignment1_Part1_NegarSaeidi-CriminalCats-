@@ -65,3 +65,9 @@ TagManager:
   - name: UI
     uniqueID: 2931418251
     locked: 0
+  - name: HUD
+    uniqueID: 4181018009
+    locked: 0
+  - name: Fuel
+    uniqueID: 1328213603
+    locked: 0
